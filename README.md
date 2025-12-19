@@ -27,7 +27,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- HARDWARE DASHBOARD -->
 <div align="center">
 
-### 🖥️ **Battle Station Specs**
+###  **Pc specs**
 
 <img src="https://img.shields.io/badge/Debian-A020F0?style=for-the-badge&logo=debian&logoColor=white&labelColor=1a1b26" />
 <img src="https://img.shields.io/badge/Kernel-Liquorix-blueviolet?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" />
@@ -45,7 +45,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- INSPIRATIONAL FIGURES -->
 <div align="center">
 
-### 💻 **Inspired By Legends**
+###  **Inspired By Legends**
 
 <table>
 <tr>
@@ -59,7 +59,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="120" alt="Terry Davis TempleOS"/>
 <br/>
-<b>💻 Terry A. Davis</b>
+<b> Terry A. Davis</b>
 <br/>
 <sub>Creator of TempleOS (1969-2018)<br/>A true programming genius<br/>"I wrote a f***ing compiler!"</sub>
 </td>
