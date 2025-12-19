@@ -20,7 +20,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- HARDWARE DASHBOARD -->
 <div align="center">
 
-### 🖥️ **Battle Station Specs**
+###  **Battle Station Specs**
 
 <img src="https://img.shields.io/badge/Debian-A020F0?style=for-the-badge&logo=debian&logoColor=white&labelColor=1a1b26" />
 <img src="https://img.shields.io/badge/Kernel-Liquorix-blueviolet?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" />
@@ -38,7 +38,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- TROPHY CASE -->
 <div align="center">
 
-### 🏆 **Achievement Showcase**
+###  **Achievement Showcase**
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=compiledkernel-idk&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
@@ -51,7 +51,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- MAIN DASHBOARD GRID -->
 <div align="center">
 
-### 📊 **Statistics Dashboard**
+###  **Statistics Dashboard**
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
