@@ -61,7 +61,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <br/>
 <b>💻 Terry A. Davis</b>
 <br/>
-<sub>Creator of TempleOS (1969-2018)<br/>A true programming genius<br/>"I wrote a f***ing compiler!"</sub>
+<sub>Creator of TempleOS (1969-2018)<br/>A true programming genius<br/>"I wrote a fucking compiler!"</sub>
 </td>
 </tr>
 </table>
