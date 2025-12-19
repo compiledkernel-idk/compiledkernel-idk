@@ -70,16 +70,6 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 
 ---
 
-<!-- TROPHY CASE -->
-<div align="center">
-
-###  **Achievement Showcase**
-
-<img src="https://github-profile-trophy.vercel.app/?username=compiledkernel-idk&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-
-</div>
-
----
 
 <!-- MAIN DASHBOARD GRID -->
 <div align="center">
