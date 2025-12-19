@@ -1,3 +1,9 @@
+<!--
+
+CompileKernel-IDK Profile README Theme: Tokyo Night (Dark) Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
+
+-->
+
 <!-- ANIMATED HEADER -->
 
 <div align="center">
