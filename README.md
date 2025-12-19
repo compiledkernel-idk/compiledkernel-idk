@@ -7,7 +7,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <!-- ANIMATED HEADER -->
 <div align="center">
   
-# 👋 Welcome to My Digital Workshop
+# Hello
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&width=600&lines=System.init(Debian_Liquorix);Loading+Kernel+Modules...;User:+CompiledKernel-IDK;Status:+Compiling+Rust+on+96GB+RAM..." alt="Typing SVG" />
