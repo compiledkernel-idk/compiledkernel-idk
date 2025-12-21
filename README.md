@@ -139,7 +139,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" /> *Running on Debian (Liquorix) • 7800X3D • 4080 Super • 96GB RAM*
+
 
 
 
