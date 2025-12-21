@@ -50,9 +50,9 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <td align="center" width="50%">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="120" alt="Linux Tux"/>
 <br/>
-<b>🐧 Linux</b>
+<b> Linux</b>
 <br/>
-<sub>The kernel that powers it all</sub>
+
 </td>
 <td align="center" width="50%">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Funbelievable-facts.com%2Fwp-content%2Fuploads%2F2024%2F05%2FTerry-Davis.webp&f=1&nofb=1&ipt=045a7678adcc40a974fb56fb85919a318742c862ef36632e41b924021eadbf78" width="120" alt="Terry Davis"/>
