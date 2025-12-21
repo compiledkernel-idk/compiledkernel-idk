@@ -16,7 +16,7 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 <br/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" width="60" alt="Linux Tux" />
-<sub>*"God's Lonely Programmer" - Terry A. Davis (1969-2018)*</sub>
+
 
 </div>
 
