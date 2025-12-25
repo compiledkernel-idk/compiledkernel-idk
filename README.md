@@ -23,20 +23,6 @@ Hardware: Debian (Liquorix) | 7800X3D | 4080 Super | 96GB RAM
 ---
 
 <!-- HARDWARE DASHBOARD -->
-<div align="center">
-
-###  **Battle Station Specs**
-
-<img src="https://img.shields.io/badge/Debian-A020F0?style=for-the-badge&logo=debian&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Kernel-Liquorix-blueviolet?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b26" />
-
-<img src="https://img.shields.io/badge/CPU-Ryzen_7_7800X3D-F39C12?style=for-the-badge&logo=amd&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/GPU-RTX_4080_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a1b26" />
-
-<img src="https://img.shields.io/badge/RAM-96GB_DDR5-005BBB?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b26" />
-<img src="https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=1a1b26" />
-
-</div>
 
 ---
 
